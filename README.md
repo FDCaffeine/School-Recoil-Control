@@ -1,5 +1,5 @@
 # School-Recoil-Control
-SCHOOL Recoil Control App is a powerful AutoHotkey v2 tool for precise recoil control in games. Create and customize weapon presets, adjust recoil strength, toggle a red dot overlay, and set hotkeys. Features include a HUD overlay, boost mode, and easy preset management. Perfect for gamers seeking accurate and efficient recoil control.
+SCHOOL Recoil Control App is a powerful AutoHotkey v2 tool for precise recoil control in PUBG. Create and customize weapon presets, adjust recoil strength, toggle a red dot overlay, and set hotkeys. Features include a HUD overlay, boost mode, and easy preset management. Perfect for gamers seeking accurate and efficient recoil control.
 
 🎯 SCHOOL v1.0 – Recoil Control System
 Created by: FDCaffeine
@@ -7,7 +7,7 @@ Platform: Windows (No AHK installation required)
 File Type: Standalone .exe (compiled from AutoHotkey v2)
 
 📦 What is SCHOOL?
-SCHOOL is a professional recoil control assistant for FPS games, designed to give you a tactical edge. It simulates mouse movement based on your weapon and stance, letting you maintain precision with every shot.
+SCHOOL is a professional recoil control assistant for PUBG, designed to give you a tactical edge. It simulates mouse movement based on your weapon and stance, letting you maintain precision with every shot.
 
 🔐 No Setup Needed
 Just double-click the school_v1.0.exe file. You do not need to install AutoHotkey or any extra software.
@@ -129,4 +129,4 @@ No registry entries or hidden files are created.
 
 📧 Contact
 Questions or feedback?
-Find me as FDCaffeine online or contact via GitHub (if uploaded there).
+Find me as FDCaffeine online or contact via GitHub.
